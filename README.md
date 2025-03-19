@@ -26,7 +26,7 @@ Libraries: streamlit, geocoder, pandas, pydeck, PIL
 
 Clone the Repository
 
-git clone https://github.com/stark-priver/leakage-report-app.git
+git clone https://github.com/your-username/water-leakage-reporting.git
 cd water-leakage-reporting
 
 Create a Virtual Environment (Optional but recommended)
@@ -65,5 +65,5 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 📞 Contact
 
 For any queries, feel free to reach out:
-📧 Email: priverdeprince@yahoo.com🌍 GitHub: Stark-Priver
+📧 Email: your-email@example.com🌍 GitHub: your-username
 
